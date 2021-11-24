@@ -1,0 +1,1 @@
+This project contains one scene, which is AR Ready, along with assets for automotive that can be used to view augmented reality.  The project is setup for Android using unity 2020 LTS.  
